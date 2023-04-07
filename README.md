@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jean-Ast
-- 👀 I’m interested in creating data projects 
-- 🌱 I’m currently learning computer programming with python
+- 👀 I’m interested in creating data related projects 
+- 🌱 I’m currently learning Python applied to Data Science
 - 💞️ I’m looking to collaborate on data projects
 - 📫 Glad to present me
 
